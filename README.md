@@ -48,3 +48,4 @@ const char* password = "Sifreniz";
 ```
 
 ## 📸 Ekran Görüntüleri
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/20ca78ba-1182-4d8f-8178-5d8a73329d50" />
