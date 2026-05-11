@@ -1,4 +1,4 @@
-# 🏠 ESP8266 Akılı Ev Web Sitesi İle
+# 🏠 ESP8266 AkılLı Ev Web Sitesi İle
 
 Bu proje, **ESP8266** tabanlı bir web sunucusu oluşturarak evin içindeki sıcaklık ve nem değerlerini gerçek zamanlı olarak izlemenizi ve bir lambayı/röleyi web arayüzü üzerinden kontrol etmenizi sağlar.
 
